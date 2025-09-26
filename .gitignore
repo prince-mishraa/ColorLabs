@@ -1,0 +1,2 @@
+# Ignore large model file
+Models/colorization_release_v2.caffemodel
